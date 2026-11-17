@@ -237,6 +237,10 @@ a {
     linear-gradient(115deg, #080a0e 0%, #0b0f17 54%, #080a0e 100%);
 }
 
+.on-dark .hero-copy {
+  color: #c8d2e4;
+}
+
 .hero-card-shell {
   position: relative;
   padding: 1px;

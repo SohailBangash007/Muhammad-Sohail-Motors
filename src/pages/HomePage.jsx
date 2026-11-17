@@ -132,7 +132,7 @@ function HomePage() {
               </span>
             </h1>
 
-            <p className="mt-7 max-w-lg text-sm leading-7 text-[#c8d2e4] sm:text-base">
+            <p className="hero-copy mt-7 max-w-lg text-sm leading-7 sm:text-base">
               Not just a car to own. A feeling you keep coming back for. Meet a hand-picked collection, ready for the long way home.
             </p>
 
